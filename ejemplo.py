@@ -1,5 +1,4 @@
-def saludar():
-    print("Hola mundo")
+from funciones import saludar
 
 saludar()
 
