@@ -2,7 +2,7 @@ from funciones import saludar
 
 saludar()
 
-z = 20
+z = 30
 
 print(z + 3)
 
